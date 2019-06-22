@@ -1,6 +1,5 @@
-# TIE-02100 Johdatus ohjelmointiin
-# TIE-02106 Introduction to Programming
-# Task: dicegame, program code template, version 1 (GUI components separately)
+
+
 
 from tkinter import *
 import random
